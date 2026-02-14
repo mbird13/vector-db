@@ -1,0 +1,269 @@
+
+Q1) What are the five most similar segments to segment "267:476"
+
+Input: "that if we were to meet alien life at some point"
+For each result return the podcast name, the segment id, segment raw text,  the start time, stop time, raw text and embedding distance
+
+--------------------------------------------------------------------------------
+Result #1
+Podcast: Ryan Graves: UFOs, Fighter Jets, and Aliens | Lex Fridman Podcast #308
+Segment: 113:2792
+Time: 6725.62s to 6729.86s
+Embedding Distance: 0.6483450674336982
+Text: encounters, human beings, if we were to meet another alien
+--------------------------------------------------------------------------------
+Result #2
+Podcast: Richard Dawkins: Evolution, Intelligence, Simulation, and Memes | Lex Fridman Podcast #87
+Segment: 268:1019
+Time: 2900.04s to 2903.08s
+Embedding Distance: 0.655810731375558
+Text: Suppose we did meet an alien from outer space
+--------------------------------------------------------------------------------
+Result #3
+Podcast: Jeffrey Shainline: Neuromorphic Computing and Optoelectronic Intelligence | Lex Fridman Podcast #225
+Segment: 305:3600
+Time: 9479.96s to 9484.04s
+Embedding Distance: 0.6595433341200092
+Text: but if we think of alien civilizations out there
+--------------------------------------------------------------------------------
+Result #4
+Podcast: Michio Kaku: Future of Humans, Aliens, Space Travel & Physics | Lex Fridman Podcast #45
+Segment: 18:464
+Time: 1316.86s to 1319.58s
+Embedding Distance: 0.6662026419636159
+Text: So I think when we meet alien life from outer space,
+--------------------------------------------------------------------------------
+Result #5
+Podcast: Alien Debate: Sara Walker and Lee Cronin | Lex Fridman Podcast #279
+Segment: 71:989
+Time: 2342.34s to 2343.62s
+Embedding Distance: 0.6742942414173209
+Text: because if aliens come to us
+
+Q2) What are the five most dissimilar segments to segment "267:476"
+
+Input: "that if we were to meet alien life at some point"
+For each result return the podcast name, the segment id, segment raw text,  the start time, stop time, raw text and embedding distance
+
+
+--------------------------------------------------------------------------------
+Result #1
+Podcast: Jason Calacanis: Startups, Angel Investing, Capitalism, and Friendship | Lex Fridman Podcast #161
+Segment: 119:218
+Time: 519.96s to 523.8s
+Embedding Distance: 1.6157687685840119
+Text: a 73 Mustang Grande in gold?
+--------------------------------------------------------------------------------
+Result #2
+Podcast: Rana el Kaliouby: Emotion AI, Social Robots, and Self-Driving Cars | Lex Fridman Podcast #322
+Segment: 133:2006
+Time: 5818.62s to 5820.82s
+Embedding Distance: 1.5863358321539258
+Text: for 94 car models.
+--------------------------------------------------------------------------------
+Result #3
+Podcast: Travis Stevens: Judo, Olympics, and Mental Toughness | Lex Fridman Podcast #223
+Segment: 283:1488
+Time: 3709.34s to 3711.1s
+Embedding Distance: 1.572552805197421
+Text: when I called down to get the sauna.
+--------------------------------------------------------------------------------
+Result #4
+Podcast: Jeremy Howard: fast.ai Deep Learning Courses and Research | Lex Fridman Podcast #35
+Segment: 241:1436
+Time: 4068.9s to 4071.14s
+Embedding Distance: 1.5663321232557983
+Text: which has all the courses pre-installed.
+--------------------------------------------------------------------------------
+Result #5
+Podcast: Joscha Bach: Nature of Reality, Dreams, and Consciousness | Lex Fridman Podcast #212
+Segment: 307:3933
+Time: 10648.64s to 10650.96s
+Embedding Distance: 1.5616341289820461
+Text: and very few are first class and some are budget.
+
+Q3) What are the five most similar segments to segment '48:511'
+
+Input: "Is it is there something especially interesting and profound to you in terms of our current deep learning neural network, artificial neural network approaches and the whatever we do understand about the biological neural network."
+For each result return the podcast name, the segment id, segment raw text,  the start time, stop time, raw text and embedding distance
+
+--------------------------------------------------------------------------------
+Result #1
+Podcast: Andrew Huberman: Neuroscience of Optimal Performance | Lex Fridman Podcast #139
+Segment: 155:648
+Time: 3798.48s to 3805.84s
+Embedding Distance: 0.652299685331962
+Text: Is there something interesting to you or fundamental to you about the circuitry of the brain
+--------------------------------------------------------------------------------
+Result #2
+Podcast: Cal Newport: Deep Work, Focus, Productivity, Email, and Social Media | Lex Fridman Podcast #166
+Segment: 61:3707
+Time: 8498.02s to 8500.1s
+Embedding Distance: 0.7121050124628524
+Text: of what we might discover about neural networks?
+--------------------------------------------------------------------------------
+Result #3
+Podcast: Matt Botvinick: Neuroscience, Psychology, and AI at DeepMind | Lex Fridman Podcast #106
+Segment: 48:512
+Time: 1846.84s to 1865.84s
+Embedding Distance: 0.7195604150682745
+Text: And our brain is there. There's some there's quite a few differences. Are some of them to you either interesting or perhaps profound in terms of in terms of the gap we might want to try to close in trying to create a human level intelligence.
+--------------------------------------------------------------------------------
+Result #4
+Podcast: Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning | Lex Fridman Podcast #258
+Segment: 276:2642
+Time: 8628.16s to 8646.16s
+Embedding Distance: 0.7357217330661501
+Text: Have these, I mean, small pockets of beautiful complexity. Does that, do cellular automata, do these kinds of emergence and complex systems give you some intuition or guide your understanding of machine learning systems and neural networks and so on?
+--------------------------------------------------------------------------------
+Result #5
+Podcast: Stephen Wolfram: Fundamental Theory of Physics, Life, and the Universe | Lex Fridman Podcast #124
+Segment: 2:152
+Time: 610.86s to 618.86s
+Embedding Distance: 0.7366969553372291
+Text: So is there something like that with physics where so deep learning neural networks have been around for a long time?
+
+Q4) What are the five most similar segments to segment '51:56'
+
+Input: "But what about like the fundamental physics of dark energy? Is there any understanding of what the heck it is?"
+For each result return the podcast name, the segment id, segment raw text,  the start time, stop time, raw text and embedding distance
+
+--------------------------------------------------------------------------------
+Result #1
+Podcast: George Hotz: Hacking the Simulation & Learning to Drive with Neural Nets | Lex Fridman Podcast #132
+Segment: 308:144
+Time: 500.44s to 502.6s
+Embedding Distance: 0.6681965222094363
+Text: I mean, we don't understand dark energy, right?
+--------------------------------------------------------------------------------
+Result #2
+Podcast: Lex Fridman: Ask Me Anything - AMA January 2021 | Lex Fridman Podcast
+Segment: 243:273
+Time: 946.22s to 950.12s
+Embedding Distance: 0.7355511357796344
+Text: Like, what's up with this dark matter and dark energy stuff?
+--------------------------------------------------------------------------------
+Result #3
+Podcast: Katherine de Kleer: Planets, Moons, Asteroids & Life in Our Solar System | Lex Fridman Podcast #184
+Segment: 196:685
+Time: 2591.72s to 2595.96s
+Embedding Distance: 0.7631141596843518
+Text: being like, what the hell is dark matter and dark energy?
+--------------------------------------------------------------------------------
+Result #4
+Podcast: Alex Filippenko: Supernovae, Dark Energy, Aliens & the Expanding Universe | Lex Fridman Podcast #137
+Segment: 51:36
+Time: 216.0s to 219.0s
+Embedding Distance: 0.7922019821739293
+Text: Do we have any understanding of what the heck that thing is?
+--------------------------------------------------------------------------------
+Result #5
+Podcast: Leonard Susskind: Quantum Mechanics, String Theory and Black Holes | Lex Fridman Podcast #41
+Segment: 122:831
+Time: 2374.9s to 2377.62s
+Embedding Distance: 0.8022704628640559
+Text: That is a big question in physics right now.
+
+Q5) For each of the following podcast segments, find the five most similar podcast episodes. Hint: You can do this by averaging over the embedding vectors within a podcast episode.
+
+    a) Segment "267:476"
+
+    b) Segment '48:511'
+
+    c) Segment '51:56'
+
+For each result return the Podcast title and the embedding distance
+
+
+Results a)
+--------------------------------------------------------------------------------
+Result #1
+Podcast: Sara Walker: The Origin of Life on Earth and Alien Worlds | Lex Fridman Podcast #198
+Average Embedding Distance: 1.1639073429236462
+--------------------------------------------------------------------------------
+Result #2
+Podcast: Nick Bostrom: Simulation and Superintelligence | Lex Fridman Podcast #83
+Average Embedding Distance: 1.1656388012560432
+--------------------------------------------------------------------------------
+Result #3
+Podcast: Alex Filippenko: Supernovae, Dark Energy, Aliens & the Expanding Universe | Lex Fridman Podcast #137
+Average Embedding Distance: 1.1691841650409789
+--------------------------------------------------------------------------------
+Result #4
+Podcast: Steven Pinker: AI in the Age of Reason | Lex Fridman Podcast #3
+Average Embedding Distance: 1.1709406018874788
+--------------------------------------------------------------------------------
+Result #5
+Podcast: David Chalmers: The Hard Problem of Consciousness | Lex Fridman Podcast #69
+Average Embedding Distance: 1.1714010150375138
+
+Results b)
+--------------------------------------------------------------------------------
+Result #1
+Podcast: Christof Koch: Consciousness | Lex Fridman Podcast #2
+Average Embedding Distance: 1.1391818868781927
+--------------------------------------------------------------------------------
+Result #2
+Podcast: Dileep George: Brain-Inspired AI | Lex Fridman Podcast #115
+Average Embedding Distance: 1.1452330622408904
+--------------------------------------------------------------------------------
+Result #3
+Podcast: Tomaso Poggio: Brains, Minds, and Machines | Lex Fridman Podcast #13
+Average Embedding Distance: 1.1509146560758492
+--------------------------------------------------------------------------------
+Result #4
+Podcast: Jitendra Malik: Computer Vision | Lex Fridman Podcast #110
+Average Embedding Distance: 1.1553830720300675
+--------------------------------------------------------------------------------
+Result #5
+Podcast: Stephen Wolfram: Cellular Automata, Computation, and Physics | Lex Fridman Podcast #89
+Average Embedding Distance: 1.1565781257741028
+
+Results c)
+--------------------------------------------------------------------------------
+Result #1
+Podcast: Sean Carroll: Quantum Mechanics and the Many-Worlds Interpretation | Lex Fridman Podcast #47
+Average Embedding Distance: 1.1410222536136452
+--------------------------------------------------------------------------------
+Result #2
+Podcast: Stephen Wolfram: Fundamental Theory of Physics, Life, and the Universe | Lex Fridman Podcast #124
+Average Embedding Distance: 1.159721157834822
+--------------------------------------------------------------------------------
+Result #3
+Podcast: Cumrun Vafa: String Theory | Lex Fridman Podcast #204
+Average Embedding Distance: 1.1769855235087183
+--------------------------------------------------------------------------------
+Result #4
+Podcast: Donald Hoffman: Reality is an Illusion - How Evolution Hid the Truth | Lex Fridman Podcast #293
+Average Embedding Distance: 1.1785260521738032
+--------------------------------------------------------------------------------
+Result #5
+Podcast: Noam Chomsky: Putin, Ukraine, China, and Nuclear War | Lex Fridman Podcast #316
+Average Embedding Distance: 1.1850170386083092
+
+Q6) For podcast episode id = VeH7qKZr0WI, find the five most similar podcast episodes. Hint: you can do a similar averaging procedure as Q5
+
+Input Episode: "Balaji Srinivasan: How to Fix Government, Twitter, Science, and the FDA | Lex Fridman Podcast #331"
+For each result return the Podcast title and the embedding distance
+
+Results
+--------------------------------------------------------------------------------
+Result #1
+Podcast: Nationalism Debate: Yaron Brook and Yoram Hazony | Lex Fridman Podcast #256
+Average Embedding Distance: 0.8803302515458213
+--------------------------------------------------------------------------------
+Result #2
+Podcast: Greg Brockman: OpenAI and AGI | Lex Fridman Podcast #17
+Average Embedding Distance: 0.8803732613829501
+--------------------------------------------------------------------------------
+Result #3
+Podcast: Stephen Wolfram: Cellular Automata, Computation, and Physics | Lex Fridman Podcast #89
+Average Embedding Distance: 0.8816894162748354
+--------------------------------------------------------------------------------
+Result #4
+Podcast: Ryan Schiller: Librex and the Free Exchange of Ideas on College Campuses | Lex Fridman Podcast #172
+Average Embedding Distance: 0.8819787018623731
+--------------------------------------------------------------------------------
+Result #5
+Podcast: Peter Norvig: Artificial Intelligence: A Modern Approach | Lex Fridman Podcast #42
+Average Embedding Distance: 0.8837994206891346
